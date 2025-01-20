@@ -27,6 +27,7 @@ For more information about how Corcel works please visit [the repository](http:/
  `^5.0`    | 8.x      | `>=7.3`
  `^6.0`    | 9.x      | `>=8.0`
  `^7.0`    | 10.x     | `>=8.1`
+ `^8.0`    | 11.x     | `>=8.2`
 
 # Installation
 
